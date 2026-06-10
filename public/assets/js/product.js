@@ -10,8 +10,7 @@ window.PRODUCTS = [
       "assets/images/product/1.1.jpg",
       "assets/images/product/1.2.jpg",
       "assets/images/product/1.3.jpg",
-      "assets/images/product/1.4.jpg",
-      "assets/images/product/1.5.jpg"
+      "assets/images/product/1.4.jpg"
     ],
     "shortDescription": "Upholstered lounge chair with an adjustable backrest and matching ottoman.",
     "description": "A cozy modern accent chair set designed for reading, lounging and relaxed seating. The adjustable backrest supports multiple sitting positions, while the matching ottoman works as a footrest, spare seat or decorative accent.",
@@ -42,8 +41,7 @@ window.PRODUCTS = [
       "assets/images/product/2.1.jpg",
       "assets/images/product/2.2.jpg",
       "assets/images/product/2.3.jpg",
-      "assets/images/product/2.4.jpg",
-      "assets/images/product/2.5.jpg"
+      "assets/images/product/2.4.jpg"
     ],
     "shortDescription": "Soft low-pile area rug with a washable surface and non-slip backing.",
     "description": "A vintage-inspired floral medallion rug for living rooms, bedrooms and dining areas. The low-pile polyester surface is soft underfoot, easy to maintain and suitable for busy home spaces.",
@@ -74,8 +72,7 @@ window.PRODUCTS = [
       "assets/images/product/3.1.jpg",
       "assets/images/product/3.2.jpg",
       "assets/images/product/3.3.jpg",
-      "assets/images/product/3.4.jpg",
-      "assets/images/product/3.5.jpg"
+      "assets/images/product/3.4.jpg"
     ],
     "shortDescription": "Compact round side table with three open storage tiers and metal frame.",
     "description": "A small rustic side table designed for narrow spaces beside a sofa, lounge chair or bed. The rounded edges improve safety, while the three-tier structure provides practical storage for books, plants, magazines and decor.",
@@ -170,8 +167,7 @@ window.PRODUCTS = [
       "assets/images/product/6.1.jpg",
       "assets/images/product/6.2.jpg",
       "assets/images/product/6.3.jpg",
-      "assets/images/product/6.4.jpg",
-      "assets/images/product/6.5.jpg"
+      "assets/images/product/6.4.jpg"
     ],
     "shortDescription": "Complete queen bedding set with comforter, sheets, shams and pillowcases.",
     "description": "A soft all-season queen bedding set with a reversible comforter and coordinated sheet pieces. The brushed polyester surface and lightweight filling create a comfortable, cloud-like sleeping experience throughout the year.",
@@ -202,8 +198,7 @@ window.PRODUCTS = [
       "assets/images/product/7.1.jpg",
       "assets/images/product/7.2.jpg",
       "assets/images/product/7.3.jpg",
-      "assets/images/product/7.4.jpg",
-      "assets/images/product/7.5.jpg"
+      "assets/images/product/7.4.jpg"
     ],
     "shortDescription": "Simple open-shelf nightstand with three storage levels and rounded corners.",
     "description": "A compact three-tier nightstand for bedrooms, dorm rooms or small living spaces. The open layout keeps lamps, books, alarm clocks and storage baskets within easy reach.",
@@ -266,8 +261,7 @@ window.PRODUCTS = [
       "assets/images/product/9.1.jpg",
       "assets/images/product/9.2.jpg",
       "assets/images/product/9.3.jpg",
-      "assets/images/product/9.4.jpg",
-      "assets/images/product/9.5.jpg"
+      "assets/images/product/9.4.jpg"
     ],
     "shortDescription": "Media console with LED lighting, open shelves and a fabric storage drawer.",
     "description": "A compact entertainment center suitable for bedrooms, living rooms and media spaces. It includes LED lighting, two open shelves and a fabric drawer for organizing game consoles, remotes, DVDs and accessories.",
@@ -298,8 +292,7 @@ window.PRODUCTS = [
       "assets/images/product/10.1.jpg",
       "assets/images/product/10.2.jpg",
       "assets/images/product/10.3.jpg",
-      "assets/images/product/10.4.jpg",
-      "assets/images/product/10.5.jpg"
+      "assets/images/product/10.4.jpg"
     ],
     "shortDescription": "Set of two bedside tables with charging ports, LED lights and fabric drawers.",
     "description": "A pair of space-saving nightstands designed for modern bedrooms. Each table includes charging access, LED lighting, open shelving and two PU-finished fabric drawers for organized bedside storage.",
@@ -329,9 +322,7 @@ window.PRODUCTS = [
       "assets/images/product/11.jpg",
       "assets/images/product/11.1.jpg",
       "assets/images/product/11.2.jpg",
-      "assets/images/product/11.3.jpg",
-      "assets/images/product/11.4.jpg",
-      "assets/images/product/11.5.jpg"
+      "assets/images/product/11.3.jpg"
     ],
     "shortDescription": "Set of two wood dining chairs with linen fabric seats and slatted backs.",
     "description": "A pair of timeless dining chairs with an oak-tone wood finish, cushioned linen fabric seats and vertical slatted backs. The classic profile enhances dining rooms, breakfast areas and kitchen tables.",
@@ -426,8 +417,7 @@ window.PRODUCTS = [
       "assets/images/product/14.1.jpg",
       "assets/images/product/14.2.jpg",
       "assets/images/product/14.3.jpg",
-      "assets/images/product/14.4.jpg",
-      "assets/images/product/14.5.jpg"
+      "assets/images/product/14.4.jpg"
     ],
     "shortDescription": "Gold serving cart with wheels, wine rack and hanging glass holders.",
     "description": "A mobile three-tier bar cart for dining rooms, kitchens and entertaining areas. The open metal frame provides space for bottles, glasses, snacks and serving items, while lockable wheels help keep it steady when parked.",
@@ -458,8 +448,7 @@ window.PRODUCTS = [
       "assets/images/product/15.1.jpg",
       "assets/images/product/15.2.jpg",
       "assets/images/product/15.3.jpg",
-      "assets/images/product/15.4.jpg",
-      "assets/images/product/15.5.jpg"
+      "assets/images/product/15.4.jpg"
     ],
     "shortDescription": "Large rectangular dining table with walnut top and black metal frame.",
     "description": "A spacious industrial-style dining table built for family meals, gatherings and everyday use. The walnut tabletop pairs with a black metal frame, while adjustable feet help keep the table stable on uneven floors.",
@@ -490,8 +479,7 @@ window.PRODUCTS = [
       "assets/images/product/16.1.jpg",
       "assets/images/product/16.2.jpg",
       "assets/images/product/16.3.jpg",
-      "assets/images/product/16.4.jpg",
-      "assets/images/product/16.5.jpg"
+      "assets/images/product/16.4.jpg"
     ],
     "shortDescription": "Adjustable handheld filtered shower head with hose, bracket and replacement cartridges.",
     "description": "A modern filtered handheld shower head designed for everyday bathroom use and easy cleaning. The multi-layer filtration cartridge helps reduce chlorine, sediments and scale buildup, while the adjustable spray modes support rainfall, massage, mixed flow and flush wash cleaning.",
@@ -522,8 +510,7 @@ window.PRODUCTS = [
       "assets/images/product/17.1.jpg",
       "assets/images/product/17.2.jpg",
       "assets/images/product/17.3.jpg",
-      "assets/images/product/17.4.jpg",
-      "assets/images/product/17.5.jpg"
+      "assets/images/product/17.4.jpg"
     ],
     "shortDescription": "Compact stainless steel sanitary disposal bin for clean and odor-controlled restrooms.",
     "description": "A wall-mounted sanitary waste receptacle made for home, office and public restroom use. The brushed stainless steel body is corrosion-resistant, easy to wipe clean and fitted with a tight-sealing lid to help contain odors.",
@@ -554,8 +541,7 @@ window.PRODUCTS = [
       "assets/images/product/18.1.jpg",
       "assets/images/product/18.2.jpg",
       "assets/images/product/18.3.jpg",
-      "assets/images/product/18.4.jpg",
-      "assets/images/product/18.5.jpg"
+      "assets/images/product/18.4.jpg"
     ],
     "shortDescription": "Clear lidded organizer for pads, tampons, cotton pads and bathroom essentials.",
     "description": "A compact bathroom storage holder designed for feminine hygiene products and daily vanity accessories. The clear protective lid keeps contents neat and dry, while the adhesive wall-mount design helps free up countertop space.",
@@ -586,8 +572,7 @@ window.PRODUCTS = [
       "assets/images/product/19.1.jpg",
       "assets/images/product/19.2.jpg",
       "assets/images/product/19.3.jpg",
-      "assets/images/product/19.4.jpg",
-      "assets/images/product/19.5.jpg"
+      "assets/images/product/19.4.jpg"
     ],
     "shortDescription": "Floor sanitary disposal bin with swing-top access and disposable liner bags.",
     "description": "A double-entry sanitary disposal container designed for toilet stalls and shared restroom areas. The swing-top lid can be accessed from either side, while the sturdy metal body and included liner bags support clean, practical maintenance.",
@@ -618,8 +603,7 @@ window.PRODUCTS = [
       "assets/images/product/20.1.jpg",
       "assets/images/product/20.2.jpg",
       "assets/images/product/20.3.jpg",
-      "assets/images/product/20.4.jpg",
-      "assets/images/product/20.5.jpg"
+      "assets/images/product/20.4.jpg"
     ],
     "shortDescription": "Polished chrome bathroom sink grid drain with anti-clog removable strainer.",
     "description": "A solid metal bathroom sink grid drain designed for fast water flow and everyday clog prevention. The 360-degree drainage cap helps water move smoothly, while the removable strainer catches hair, jewelry and small items for easier cleaning.",
@@ -650,8 +634,7 @@ window.PRODUCTS = [
       "assets/images/product/21.1.jpg",
       "assets/images/product/21.2.jpg",
       "assets/images/product/21.3.jpg",
-      "assets/images/product/21.4.jpg",
-      "assets/images/product/21.5.jpg"
+      "assets/images/product/21.4.jpg"
     ],
     "shortDescription": "Three-light brass gold vanity lighting fixture with clear crystal shades.",
     "description": "A modern vanity light fixture designed for installation above bathroom mirrors. The brass gold finish and transparent crystal lampshades create a refined decorative look, suitable for contemporary bathroom and dressing areas.",
@@ -746,8 +729,7 @@ window.PRODUCTS = [
       "assets/images/product/24.1.jpg",
       "assets/images/product/24.2.jpg",
       "assets/images/product/24.3.jpg",
-      "assets/images/product/24.4.jpg",
-      "assets/images/product/24.5.jpg"
+      "assets/images/product/24.4.jpg"
     ],
     "shortDescription": "Three-hole matte black bathroom sink faucet with swivel spout and pop-up drain.",
     "description": "A widespread bathroom sink faucet with a 360-degree swivel gooseneck spout and two-handle control. The matte black finish provides a modern look, while the included pop-up drain and supply lines support a quick vanity upgrade.",
@@ -810,8 +792,7 @@ window.PRODUCTS = [
       "assets/images/product/26.1.jpg",
       "assets/images/product/26.2.jpg",
       "assets/images/product/26.3.jpg",
-      "assets/images/product/26.4.jpg",
-      "assets/images/product/26.5.jpg"
+      "assets/images/product/26.4.jpg"
     ],
     "shortDescription": "Complete black bathroom set with shower curtain, liner, hooks, dispenser and organizers.",
     "description": "A complete coordinated bathroom accessories set for quickly refreshing a bathroom space. The set includes daily countertop organizers, a shower curtain with liner and hooks, a toilet brush, trash can and matching dispenser pieces.",
@@ -842,8 +823,7 @@ window.PRODUCTS = [
       "assets/images/product/27.1.jpg",
       "assets/images/product/27.2.jpg",
       "assets/images/product/27.3.jpg",
-      "assets/images/product/27.4.jpg",
-      "assets/images/product/27.5.jpg"
+      "assets/images/product/27.4.jpg"
     ],
     "shortDescription": "Rustproof hanging shower organizer with adjustable height, baskets, hooks and holders.",
     "description": "A height-adjustable hanging shower caddy built to organize shampoo, conditioner, soap, toothbrushes and shower accessories. The split-center design is suitable for handheld showerheads, while adhesive supports and suction cups help reduce swinging.",
@@ -874,8 +854,7 @@ window.PRODUCTS = [
       "assets/images/product/28.1.jpg",
       "assets/images/product/28.2.jpg",
       "assets/images/product/28.3.jpg",
-      "assets/images/product/28.4.jpg",
-      "assets/images/product/28.5.jpg"
+      "assets/images/product/28.4.jpg"
     ],
     "shortDescription": "Clear vanity storage jars with bamboo lids for cotton swabs, pads and small essentials.",
     "description": "A set of four clear apothecary-style jars for vanity, bathroom and countertop organization. The bamboo lids add a natural decorative touch, while the transparent containers make cotton swabs, pads, floss picks and small accessories easy to identify.",
@@ -938,8 +917,7 @@ window.PRODUCTS = [
       "assets/images/product/30.1.jpg",
       "assets/images/product/30.2.jpg",
       "assets/images/product/30.3.jpg",
-      "assets/images/product/30.4.jpg",
-      "assets/images/product/30.5.jpg"
+      "assets/images/product/30.4.jpg"
     ],
     "shortDescription": "Complete black countertop bathroom ensemble with dispenser, cup, dish, brush holder and trash can.",
     "description": "A coordinated six-piece bathroom accessories ensemble for organizing toiletries and refreshing bathroom decor. The set includes key countertop and cleaning essentials with a durable design suitable for daily family use.",
