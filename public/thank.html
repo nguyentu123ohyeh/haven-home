@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Thank You — ALFANAR</title>
+<meta name="description" content="Your order request has been received.">
+<link rel="stylesheet" href="assets/css/style.css">
+<style>
+/* Font + header weight patch: applied to non-index pages only */
+:root{
+  --page-font: Arial, Calibri, Helvetica, sans-serif;
+}
+
+html,
+body,
+button,
+input,
+textarea,
+select,
+a,
+p,
+span,
+small,
+strong,
+label,
+li,
+td,
+th,
+div,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.brand,
+.nav-links a,
+.cart-btn,
+.btn,
+.eyebrow,
+.kicker,
+.cat,
+.price,
+.name,
+.num,
+.by{
+  font-family: var(--page-font) !important;
+}
+
+/* Header: remove bold feeling */
+.site-header .brand,
+.site-header .brand small,
+.site-header .nav-links a,
+.site-header .cart-btn,
+.site-header .menu-toggle{
+  font-weight: 400 !important;
+  letter-spacing: .02em !important;
+}
+
+.site-header .nav-links a.active,
+.site-header .nav-links a:hover{
+  font-weight: 500 !important;
+}
+
+.site-header .cart-badge{
+  font-weight: 500 !important;
+}
+</style>
+</head>
+<body>
+<header class="site-header"><div class="container nav">
+  <a href="index.html" class="brand"><span class="dot"></span>ALFANAR <small>Interiors & Fittings</small></a>
+  <nav class="nav-links" id="navLinks">
+    <a href="index.html">Home</a><a href="about.html">About Us</a><a href="products.html">Products</a><a href="faq.html">FAQ</a><a href="contact.html">Contact</a>
+  </nav>
+  <div class="nav-actions"><a href="cart.html" class="cart-btn">Cart <span class="cart-badge">0</span></a><button class="menu-toggle" onclick="document.getElementById('navLinks').classList.toggle('open')">≡</button></div>
+</div></header>
+
+<section class="section"><div class="container" data-thank-root></div></section>
+
+<footer class="site-footer"><div class="container">
+  <div class="foot-grid">
+    <div><div class="brand"><span class="dot"></span>ALFANAR <small>Interiors & Fittings</small></div><p style="margin-top:14px;max-width:340px">A studio practice for premium interior furniture and bathroom fittings — material-honest, built to age.</p></div>
+    <div><h4>Explore</h4><a href="index.html">Home</a><a href="about.html">About Us</a><a href="products.html">Products</a><a href="faq.html">FAQ</a><a href="contact.html">Contact</a></div>
+    <div><h4>Policies</h4><a href="privacy-policy.html">Privacy Policy</a><a href="terms.html">Terms</a><a href="faq.html">Support</a></div>
+    <div class="biz"><h4>Business</h4><strong>ALFANAR CONSTRUCTION SINGLE MEMBER PC</strong><span>Aggelou Sikelianou No. 22, Psychiko / Neo Psychiko, 15451, Greece</span><span>Phone: +30 210 614 7134</span><span>Tax No.: 802214767</span><span>Email: info@alfanar-construction.gr</span></div>
+  </div>
+  <div class="foot-bottom"><span>© 2026 ALFANAR Construction SMPC. All rights reserved.</span><span>Crafted with care in Athens.</span></div>
+</div></footer>
+<script src="assets/js/product.js"></script>
+<script src="assets/js/main.js"></script>
+</body></html>
